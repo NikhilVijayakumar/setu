@@ -1,0 +1,42 @@
+# requirements.txt for Project Sutradhar
+
+# --- Core Web Framework ---
+# Core library for handling typed settings and configurations
+pydantic
+
+# HTTP client for communicating with RESTful APIs (like Kong's Admin API)
+requests
+
+# Official Python client for Minio / S3-compatible storage
+minio
+
+# Official Python client for Keycloak
+python-keycloak-client
+
+# --- Testing ---
+# The testing framework
+pytest
+
+# Pytest plugin for measuring test coverage
+pytest-cov
+
+# Pytest plugin for mocking objects during tests
+pytest-mock
+
+
+# --- Code Quality & Formatting ---
+# The uncompromising code formatter
+black
+
+# A tool to check for security vulnerabilities in dependencies
+pip-audit
+
+# A linter to check for style and errors
+flake8
+
+# A tool to automatically sort imports
+isort
+
+# Static type checker
+mypy
+
