@@ -1,5 +1,3 @@
-Of course. Here is the technical documentation formatted as a standard Markdown response.
-
 # Technical Documentation: Project Setu
 
 | | |

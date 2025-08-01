@@ -1,5 +1,3 @@
-Of course. Here is the same documentation formatted as a standard Markdown response for easy copying.
-
 # Functional Documentation: Project Setu
 
 | |               |
